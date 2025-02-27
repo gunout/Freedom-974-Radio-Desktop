@@ -9,7 +9,7 @@ from gi.repository import Gtk, GLib, Gdk
 
 class FreedomRadioApp(Gtk.Window):
     def __init__(self):
-        Gtk.Window.__init__(self, title="Freedom Radio Réunion")
+        Gtk.Window.__init__(self, title="Freedom Radio")
         self.set_default_size(400, 200)  # Taille de la fenêtre réduite
 
         # Définir l'icône de l'application
