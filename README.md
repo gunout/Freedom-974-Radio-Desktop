@@ -1,14 +1,29 @@
 # Freedom-974-Radio-Desktop
 App to Listen https://freedom.fr/ from Reunion Island on your DESKTOP .
 
+# DEPENDANCES 
+
+  PyGObject==3.42.2
+  configparser==5.3.0
+
+# USE 
+
+    pip install -r requirements.txt
+
+# VLC
+
+    sudo apt-get install vlc
+
+    
+
+# RUN 
+
+    chmod +x Freedom.py
+    python Freedom.py
 
 
 
-
-
-
-
-
+by Gunout _________________ 2025 .
 
 
 
